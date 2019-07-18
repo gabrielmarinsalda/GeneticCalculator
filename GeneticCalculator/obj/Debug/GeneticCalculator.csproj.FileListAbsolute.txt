@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\bin\Debug\GeneticCalculator.exe.config
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\obj\Debug\GeneticCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\obj\Debug\GeneticCalculator.Forms.PrincipalMenu.resources
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\obj\Debug\GeneticCalculator.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\obj\Debug\GeneticCalculator.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\bin\Debug\GeneticCalculator.exe
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\bin\Debug\GeneticCalculator.pdb
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\obj\Debug\GeneticCalculator.exe
+C:\Users\Gabriel\Documents\GeneticCalculator\GeneticCalculator\obj\Debug\GeneticCalculator.pdb
